@@ -2,6 +2,7 @@
 
 
 Projeto desenvolvido para **analisar cotações de ativos** e **enviar alertas por e-mail** quando condições favoráveis de **compra** ou **venda** forem identificadas. Foi utilizada a api do Brapi.dev
+
 ---
 
 ## 🚀 Antes de Usar  
